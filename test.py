@@ -1,2 +1,1 @@
-print("hi this is manish")
-print("hi jss")
+print("lion")
