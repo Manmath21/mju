@@ -1,2 +1,1 @@
-print("lion")
-print("tiger")
+print("HEllo jordan")
